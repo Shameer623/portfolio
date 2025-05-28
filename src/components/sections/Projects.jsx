@@ -15,7 +15,7 @@ const projects = [
     ],
     githubLink: 'https://github.com/Shameer623/updatecss',
     secondaryLink: 'https://github.com/Shameer623/ExpenseTracker',
-    imageUrl: '/project1.jpg'
+    imageUrl: './project1.jpg'
   },
   {
     title: 'ATM Backend System',
